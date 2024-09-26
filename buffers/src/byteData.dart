@@ -30,7 +30,7 @@ void byteData({required ByteBuffer testBuffer}) {
   }
 
   // One could set different data types within the same ByteData buffer.
-  buffer.setFloat32(0, 24);
+  buffer.setFloat32(0, 24, Endian.big);
   buffer.setUint8(4, 12);
 
   // However, to access these elements, we have to remember the offsets of
