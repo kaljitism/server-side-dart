@@ -19,8 +19,8 @@ void main() async {
         await for (final data in httpRequest) {
           String str = String.fromCharCodes(data);
           dataString += str;
-          print('file is now closed');
         }
+        print('file is now closed');
       } catch (e) {
         print(e);
       }

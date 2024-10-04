@@ -9,6 +9,9 @@
       <excludeFolder url="file://$MODULE_DIR$/http/shelf/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/http/shelf/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/http/shelf/build" />
+      <excludeFolder url="file://$MODULE_DIR$/application_layer_http/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/application_layer_http/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/application_layer_http/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

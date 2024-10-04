@@ -23,9 +23,8 @@ void main() async {
     'message': 'One Last Chunk',
   });
 
-  request.write(res1);
-  request.write(res2);
-
-  final response = await request.close();
-  print('statusCode: ${response.statusCode}');
+  request
+    ..write(res1)
+    ..write(res2)
+    ..close();
 }
