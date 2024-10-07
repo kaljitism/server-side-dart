@@ -1,6 +1,6 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
 
-part of 'method_03.dart';
+part of 'parsing_json_method_03.dart';
 
 // **************************************************************************
 // JsonSerializableGenerator

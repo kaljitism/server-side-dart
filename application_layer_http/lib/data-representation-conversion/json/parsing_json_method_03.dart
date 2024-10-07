@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:json_annotation/json_annotation.dart';
 
-part 'method_03.g.dart';
+part 'parsing_json_method_03.g.dart';
 
 @JsonSerializable()
 class Person {
