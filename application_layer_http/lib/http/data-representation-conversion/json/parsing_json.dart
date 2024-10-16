@@ -1,6 +1,6 @@
-import 'package:application_layer_http/data-representation-conversion/json/parsing_json_method_01.dart';
-import 'package:application_layer_http/data-representation-conversion/json/parsing_json_method_02.dart';
-import 'package:application_layer_http/data-representation-conversion/json/parsing_json_method_03.dart';
+import 'package:application_layer_http/http/data-representation-conversion/json/parsing_json_method_01.dart';
+import 'package:application_layer_http/http/data-representation-conversion/json/parsing_json_method_02.dart';
+import 'package:application_layer_http/http/data-representation-conversion/json/parsing_json_method_03.dart';
 
 void main() {
   String rawJson = '{"name":"Mary,"age":30}';
